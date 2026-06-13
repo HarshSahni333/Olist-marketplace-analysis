@@ -12,7 +12,7 @@ This project was built to practice a complete data analyst workflow using a real
 
 The Executive Summary page provides a high-level view of business performance, including revenue trends, regional sales distribution, and top-performing product categories.
 
-![Executive Summary](Dashboard%20and%20Data%20Model%20Preview/Executive_Summary.png)
+![Executive Summary](../Dashboard%20and%20Data%20Model%20Preview/Executive_Summary.png)
 
 ---
 
@@ -20,7 +20,7 @@ The Executive Summary page provides a high-level view of business performance, i
 
 This page focuses on category-level performance and helps identify which product categories drive the most revenue and orders.
 
-![Product Analysis](Dashboard%20and%20Data%20Model%20Preview/Product_Analysis.png)
+![Product Analysis](../Dashboard%20and%20Data%20Model%20Preview/Product_Analysis.png)
 
 ---
 
@@ -28,7 +28,7 @@ This page focuses on category-level performance and helps identify which product
 
 This page explores customer distribution, regional performance, products sold, and delivery efficiency across different states.
 
-![Customer & Regional Analysis](Dashboard%20and%20Data%20Model%20Preview/Customer_And_Regional_Analysis.png)
+![Customer & Regional Analysis](../Dashboard%20and%20Data%20Model%20Preview/Customer_And_Regional_Analysis.png)
 
 ---
 
@@ -38,7 +38,7 @@ The dashboard is built on a relational model connecting customers, orders, order
 
 One of the key challenges during development was validating relationships and filter propagation to ensure KPIs were calculated correctly across all visuals.
 
-![Data Model](Dashboard%20and%20Data%20Model%20Preview/Data_Model.png)
+![Data Model](../Dashboard%20and%20Data%20Model%20Preview/Data_Model.png)
 
 ---
 
